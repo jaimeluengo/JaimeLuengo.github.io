@@ -19,4 +19,12 @@ New field 5: Solar Powered Water Pump
 * [Report](Jluengo_BScReport.pdf)
 * [Poster](JLuengo_BscPoster.pdf)
 * [Ross Baldick's Article](http://rossbaldick.com/pumping-water-uphill-storing-energy-without-batteries/)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yR667h2FNRA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="auto-resizable-iframe">
+  <div>
+    <iframe
+     frameborder="0"
+     allowfullscreen=""
+     src="https://www.youtube.com/embed/yR667h2FNRA">
+     </iframe>
+  </div>
+</div>
