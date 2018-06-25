@@ -1,0 +1,39 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+#permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title: Jaime Luengo Rozas
+description: > # this means to ignore newlines until "baseurl:"
+    Jaime Luengo Rozas webpage, portfolio.
+#permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Jaime Luengo Rozas # add your name
+author-img: jaime-luengo.jpg # add your photo
+about-author: Pragmastic theorist # add description
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: jaimeluengo # add your Github handle
+social-linkedin: jaime-luengo-rozas-b27572110 # add your Linkedin handle
+social-email: # add your Email address
+
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: UA-121310230-1 # Google
+
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+  - jekyll-admin
+# Custom vars
+version:             1.0.0
