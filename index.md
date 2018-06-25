@@ -5,7 +5,7 @@ layout: page
 
 ## Welcome!
 
-I am a graduate student in Electrical and Computer Engineering at Cornell University. I have lived in these three gorgeous places, can you tell which are them?
+I am a graduate student in Electrical and Computer Engineering at Cornell University. I have lived in these three gorgeous places, can you tell where they are?
 
 ![](public/img/cities.png)
 
