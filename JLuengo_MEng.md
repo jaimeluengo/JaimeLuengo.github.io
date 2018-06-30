@@ -13,6 +13,10 @@ layout: default
 
 *Cornell University*
 
+*Sponsor: [Iberdrola Foundation](https://www.fundacioniberdrolaespana.org/webfund/corporativa/iberdrola?IDPAG=ENFUNINICIO)*
+
+*Award: [IEEE PESGM Best Conference Paper](https://www.ece.cornell.edu/news/index.cfm?news_id=96596)
+
 **Abstract:** The present distribution systems are not well metered and in general unobservable. To unlock the full potential of Distributed Energy Resources (DERs), a modernization of the distribution system is necessary to provide tighter control of power flow in real-time operations, which requires effective state estimation. An essential barrier to state estimation for real-time control is unobservability. Although smart meters at the edge of the network have been deployed progressively, these type of measurements are typically at a much slower time scale incompatible with the more rapid changes of DER such as solar generation. Realizing state estimation for real-time operation in distribution systems, therefore, requires a fundamentally different approach from that used in transmission systems one that overcomes the difficulty of lack of measurements.
 
 
