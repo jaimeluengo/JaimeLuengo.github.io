@@ -16,7 +16,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Jaime Luengo Rozas # add your name
 author-img: jaime-luengo.jpg # add your photo
-about-author: Pragmatic theorist # add description
+# about-author: Pragmatic theorist # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: jaimeluengo # add your Github handle
