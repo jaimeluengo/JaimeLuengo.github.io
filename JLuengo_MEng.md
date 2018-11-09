@@ -22,7 +22,7 @@ layout: default
 
 A Bayesian approach is proposed that combines Bayesian inference with a deep neural network to achieve the minimum mean squared error estimation of network states for real-time applications. The proposed technique learns probability distributions of net injection from smart meter data and generate samples for training a deep neural network. Results show that the proposed technique offers significant improvement in estimation accuracy and computation cost over weighted least squares methods with pseudo-measurements. Simulations are also used to evaluate robustness of the proposed Bayesian method against estimation errors in distribution learning and bad data.
 
-* [Report](JLuengo_MEngReport.pdf)
+* [Conference Paper](MestavLuengoTong17PESGM.pdf)
 * [Poster](JLuengo_MEngPoster.pdf)
 <br>
 <a> </a>
